@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T01:33:59.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="vgwsQbujpnwTpIcICCTi" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T08:55:08.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="T1AKfifEpzkP8adEprLo" version="14.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -826,17 +826,41 @@
         <mxCell id="Eu_mf2mGly2LNpTWScYB-447" value="검사신청이&lt;br&gt;&amp;nbsp;완료된다" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="6521" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qF4ThXEy51hb0vBq0Mi6-0" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qF4ThXEy51hb0vBq0Mi6-0" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280.5" y="530" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qF4ThXEy51hb0vBq0Mi6-1" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qF4ThXEy51hb0vBq0Mi6-1" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="420" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qF4ThXEy51hb0vBq0Mi6-2" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qF4ThXEy51hb0vBq0Mi6-2" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="1690" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qF4ThXEy51hb0vBq0Mi6-3" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qF4ThXEy51hb0vBq0Mi6-3" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="1670" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0vbRHuAY99aIcdgwqp1-0" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="2890" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0vbRHuAY99aIcdgwqp1-1" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="625" y="2870" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0vbRHuAY99aIcdgwqp1-2" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280.5" y="4230" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0vbRHuAY99aIcdgwqp1-3" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="4031" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0vbRHuAY99aIcdgwqp1-4" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660.5" y="4385" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0vbRHuAY99aIcdgwqp1-5" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280.5" y="5201" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0vbRHuAY99aIcdgwqp1-6" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="5201" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0vbRHuAY99aIcdgwqp1-7" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="5560" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
