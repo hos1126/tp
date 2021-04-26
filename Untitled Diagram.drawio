@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T00:47:17.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="rf3MN1gE-s6uN7cMGISZ" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T05:07:20.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="DLk4EHq2mjdew6EZlu07" version="14.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -596,6 +596,9 @@
         <mxCell id="Eu_mf2mGly2LNpTWScYB-371" value="&lt;span style=&quot;font-size: 23px&quot;&gt;제조/설치검사&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="157.5" y="4800" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Fx1UVMXp5QeYjujkJDE2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eu_mf2mGly2LNpTWScYB-372" target="Eu_mf2mGly2LNpTWScYB-379">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Eu_mf2mGly2LNpTWScYB-372" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;문서유통을 통해 공문을 발송한다&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="5461" width="120" height="60" as="geometry" />
         </mxCell>
@@ -735,10 +738,8 @@
             <mxPoint x="690" y="6425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eu_mf2mGly2LNpTWScYB-413" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eu_mf2mGly2LNpTWScYB-414" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600.5" y="6520" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Fx1UVMXp5QeYjujkJDE2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eu_mf2mGly2LNpTWScYB-414" target="Fx1UVMXp5QeYjujkJDE2-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eu_mf2mGly2LNpTWScYB-414" value="검사연기신청&lt;br&gt;&amp;nbsp;내역을&lt;br&gt;승인한다" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="6380" width="100" height="90" as="geometry" />
@@ -754,6 +755,9 @@
         </mxCell>
         <mxCell id="Eu_mf2mGly2LNpTWScYB-418" value="&lt;span style=&quot;font-size: 23px&quot;&gt;검사연기&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="182.5" y="5960" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx1UVMXp5QeYjujkJDE2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eu_mf2mGly2LNpTWScYB-419" target="Eu_mf2mGly2LNpTWScYB-426">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eu_mf2mGly2LNpTWScYB-419" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;문서유통을 통해 공문을 발송한다&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="6621" width="120" height="60" as="geometry" />
@@ -797,7 +801,7 @@
         <mxCell id="Eu_mf2mGly2LNpTWScYB-430" value="신청한 검사연기 상세정보를 조회한다" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="6280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eu_mf2mGly2LNpTWScYB-431" value="운영사가 검사연기를 재신청한다." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Eu_mf2mGly2LNpTWScYB-431" value="운영사는 5일이내 검사신청을 한다" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="6395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eu_mf2mGly2LNpTWScYB-432" value="검사연기 신청내용을 입력하고 검사연기신청한다" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -818,14 +822,8 @@
         <mxCell id="Eu_mf2mGly2LNpTWScYB-438" value="검사연기신청현황 목록을 조회한다" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540.5" y="6180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eu_mf2mGly2LNpTWScYB-447" value="검사신청이&lt;br&gt;&amp;nbsp;완료된다" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="6521" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="a0vbRHuAY99aIcdgwqp1-8" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="279.5" y="6370" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="a0vbRHuAY99aIcdgwqp1-9" value="알림" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="6361" width="60" height="40" as="geometry" />
+        <mxCell id="Eu_mf2mGly2LNpTWScYB-447" value="검사연기신청이 완료된다." style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="6670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="26QLEwsswjxESiANJocg-2" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="655" y="490" width="30" height="20" as="geometry" />
@@ -854,7 +852,7 @@
         <mxCell id="26QLEwsswjxESiANJocg-12" value="&lt;span&gt;알림(운영사, 검사대행업체, &lt;br&gt;지방청담당자&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="616.5" y="3978" width="90.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="26QLEwsswjxESiANJocg-15" value="운영사가 검사를 재신청한다." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="26QLEwsswjxESiANJocg-15" value="운영사가 30일이내에 재검사를 신청한다." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="4377" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="26QLEwsswjxESiANJocg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="26QLEwsswjxESiANJocg-16" target="26QLEwsswjxESiANJocg-20" edge="1">
@@ -872,11 +870,23 @@
         <mxCell id="Fx1UVMXp5QeYjujkJDE2-1" value="&lt;span&gt;알림(운영사, 검사대행업체, &lt;br&gt;지방청담당자&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="599.5" y="5200.5" width="90.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fx1UVMXp5QeYjujkJDE2-4" value="운영사가 검사를 재신청한다." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Fx1UVMXp5QeYjujkJDE2-4" value="운영사가 30일이내에 재검사를 신청한다." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="5570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fx1UVMXp5QeYjujkJDE2-6" value="&lt;span&gt;알림(운영사, 검사대행업체, &lt;br&gt;지방청담당자&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="594.5" y="5580" width="90.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx1UVMXp5QeYjujkJDE2-7" value="&lt;span&gt;알림(운영사, 지방청담당자&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="6561" width="90.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx1UVMXp5QeYjujkJDE2-11" value="&lt;span&gt;알림(운영사, 지방청담당자&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640.5" y="6610" width="90.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx1UVMXp5QeYjujkJDE2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fx1UVMXp5QeYjujkJDE2-12" target="Eu_mf2mGly2LNpTWScYB-447">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx1UVMXp5QeYjujkJDE2-12" value="정기검사의 유효일이 3개월 연장된다" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="6530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
